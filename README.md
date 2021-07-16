@@ -31,4 +31,4 @@ To add events to Google Calendar, you can add a .env file the contains:
 *REACT_APP_CLIENT_ID
 *REACT_APP_API_KEY
 
-Instructions on how to retrieve the id and key can be found [here](https://developers.google.com/workspace/guides/getstarted-overview)
+Instructions on how to retrieve the id and key can be found [here](https://developers.google.com/workspace/guides/getstarted-overview).
