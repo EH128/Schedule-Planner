@@ -1,7 +1,7 @@
 # Schedule-Planner
 
 ## Introduction
-This React application allows users to plan out their schedules. 
+This React application allows users to plan out their schedule. 
 
 Users input:
 * Title of Event
@@ -9,7 +9,7 @@ Users input:
 * End time and date
 * Description of Event
 
-The scheduler lists out all events and provides the option to add specific events to Google Calendar. 
+The scheduler lists out all events created and provides the option to add specific events to Google Calendar. 
 
 ## Set Up
 
