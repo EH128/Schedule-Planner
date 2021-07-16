@@ -5,7 +5,7 @@
 ## Introduction
 This React application allows users to plan out their schedule. 
 
-Users input:
+User inputs:
 * Title of Event
 * Start time and date
 * End time and date
