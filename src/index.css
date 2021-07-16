@@ -1,0 +1,123 @@
+@import url("https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+body {
+  font-family: "Otomanopee One", sans-serif;
+}
+
+.container {
+  margin: 40px auto;
+  max-width: 70%;
+  min-height: 40vh;
+  border: 2px solid rgb(204, 44, 79);
+  padding: 20px 0;
+}
+
+.header {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 30px;
+}
+.header > h1 {
+  color: rgb(59, 62, 218);
+}
+.nav-container {
+  display: flex;
+  align-items: flex-end;
+}
+.nav-container > a {
+  margin-left: 40px;
+  font-size: 1.3em;
+  text-decoration: none;
+  color: rgb(45, 172, 66);
+}
+.title {
+  font-size: 2em;
+  margin-bottom: 10px;
+  color: rgb(252, 0, 0);
+}
+.list-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.event-container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+  width: 90%;
+  border: 2px solid rgb(17, 152, 230);
+  border-radius: 10px;
+  padding: 10px 20px;
+  position: relative;
+}
+.event-info {
+  font-size: 1.15em;
+  line-height: 1.5em;
+  letter-spacing: 1px;
+}
+.event-actions {
+  position: absolute;
+  right: 15px;
+  top: 11px;
+}
+.event-actions > button {
+  margin-right: 15px;
+  color: rgb(57, 57, 214);
+  font-size: 1.15em;
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  font-weight: bold;
+}
+.trash-icon {
+  color: rgb(243, 30, 30);
+  font-size: 1.15em;
+  cursor: pointer;
+}
+.form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 90%;
+}
+.row {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  align-items: center;
+}
+.label {
+  font-size: 1.3em;
+  margin: 5px 10px;
+}
+.input-field {
+  height: 30px;
+  flex-grow: 1;
+  font-size: 1.3em;
+  border: 2px solid rgb(17, 152, 230);
+  border-radius: 10px;
+  padding: 5px;
+}
+.text-field {
+  height: 100px;
+  flex-grow: 1;
+  font-size: 1.35em;
+  resize: none;
+  border: 2px solid rgb(17, 152, 230);
+  border-radius: 10px;
+  padding: 5px;
+}
+.btn {
+  margin-top: 20px;
+  font-size: 1.5em;
+  padding: 5px 10%;
+  background-color: rgb(116, 216, 16);
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}

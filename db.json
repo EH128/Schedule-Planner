@@ -1,0 +1,49 @@
+{
+  "events": [
+    {
+      "title": "Afternoon Tea",
+      "startDate": "2021-07-17",
+      "endDate": "2021-07-17",
+      "startTime": "14:45",
+      "endTime": "16:00",
+      "description": "Tea time with Jen.",
+      "id": 5
+    },
+    {
+      "title": "Study for Finals",
+      "startDate": "2021-07-19",
+      "endDate": "2021-07-20",
+      "startTime": "16:00",
+      "endTime": "15:00",
+      "description": "Physics test, chemistry test, coding test. Make sure to study them all... especially coding, cause it's important!",
+      "id": 6
+    },
+    {
+      "title": "Buy New Phone",
+      "startDate": "2021-07-28",
+      "endDate": "2021-07-28",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "description": "Getting that new iPhone 50!!! Excited.",
+      "id": 7
+    },
+    {
+      "title": "Physics Final",
+      "startDate": "2021-07-23",
+      "endDate": "2021-07-23",
+      "startTime": "14:15",
+      "endTime": "15:00",
+      "description": "Don't mess this up :)",
+      "id": 8
+    },
+    {
+      "title": "10km Run Everyday",
+      "startDate": "2021-07-27",
+      "endDate": "2021-08-07",
+      "startTime": "06:00",
+      "endTime": "07:00",
+      "description": "Complete this challenge and treat yourself to strawberry ice cream!",
+      "id": 9
+    }
+  ]
+}
