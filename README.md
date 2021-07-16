@@ -1,5 +1,7 @@
 # Schedule-Planner
 
+![homepage](https://user-images.githubusercontent.com/80148678/126001911-223287f2-0536-4200-9596-89a6988af7b7.png)
+
 ## Introduction
 This React application allows users to plan out their schedule. 
 
