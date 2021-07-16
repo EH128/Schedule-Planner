@@ -28,7 +28,7 @@ Run JSON Server
 npm run server
 ```
 To add events to Google Calendar, you can add a .env file the contains: 
-*REACT_APP_CLIENT_ID
-*REACT_APP_API_KEY
+* REACT_APP_CLIENT_ID = **Your Client ID**
+* REACT_APP_API_KEY = **Your API Key**
 
 Instructions on how to retrieve the id and key can be found [here](https://developers.google.com/workspace/guides/getstarted-overview).
